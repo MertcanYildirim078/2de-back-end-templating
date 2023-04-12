@@ -1,6 +1,9 @@
 <?php 
-include './varibles.php';
+require './varibles.php';
 
-echo $hello;
+for ($i=0;$i < 3;$i++) {
+    echo $lijstFruiten[$i];
+    echo '<br>';
+}
 
 ?>

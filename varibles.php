@@ -1,5 +1,5 @@
 <?php 
 
-$hello = 'hello'
+$lijstFruiten = ['banaan', 'appel', 'mango']
 
 ?>
